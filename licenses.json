@@ -145,7 +145,7 @@
   "EAGLE-W442-550X": {"active": true, "deviceHash": null},
   "EAGLE-H667-992Y": {"active": true, "deviceHash": null},
   "EAGLE-D223-337Z": {"active": true, "deviceHash": null},
-  "EAGLE-C889-115K": {"active": true, "deviceHash": null},
+  "EAGLE-C889-115K": {"active": true, "deviceHash": "1IIZPLX"},
   "EAGLE-Z334-664M": {"active": true, "deviceHash": "EC1KFJ"},
   "EAGLE-M771-440B": {"active": true, "deviceHash": "1in6upb"},
   "EAGLE-B110-881N": {"active": true, "deviceHash": "1in6upb"}
