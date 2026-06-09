@@ -1,5 +1,5 @@
 {
-  "EAGLE-B742-109X": {"active": true, "deviceHash": "r28bsj"},
+  "EAGLE-B742-109X": {"active": true, "deviceHash": null},
   "EAGLE-K821-452Y": {"active": true, "deviceHash": null},
   "EAGLE-R119-736Z": {"active": true, "deviceHash": null},
   "EAGLE-M504-291P": {"active": true, "deviceHash": null},
@@ -7,7 +7,7 @@
   "EAGLE-J291-550L": {"active": true, "deviceHash": null},
   "EAGLE-V118-332W": {"active": true, "deviceHash": null},
   "EAGLE-P445-901D": {"active": true, "deviceHash": null},
-  "EAGLE-S772-123G": {"active": true, "deviceHash": null},
+  "EAGLE-S772-123G": {"active": true, "deviceHash": "r28bsj"},
   "EAGLE-F883-447N": {"active": true, "deviceHash": null},
   "EAGLE-G105-662H": {"active": true, "deviceHash": null},
   "EAGLE-T992-815K": {"active": true, "deviceHash": null},
