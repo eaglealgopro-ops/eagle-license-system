@@ -596,7 +596,7 @@
     "deviceHash": null
   },
   "EAGLE-B110-881N": {
-    "active": true,
+    "active": false,
     "deviceHash": "HJTSVJ1"
   }
 }
